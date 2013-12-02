@@ -1,0 +1,25 @@
+<package>
+  <description brief="ikfast_pr2_comparisons">
+
+     ikfast_pr2_comparisons
+
+  </description>
+  <author>Victor</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/ikfast_pr2_comparisons</url>
+  <depend package="pr2_collision_checker" />
+  <depend package="kdl" />
+  <depend package="pviz" />
+  <depend package="roscpp" />
+  <depend package="actionlib" />
+  <depend package="angles" />
+  <depend package="pr2_controllers_msgs" />
+  <depend package="ikfast_pr2" />
+  <depend package="sensor_msgs" />
+  <depend package="pr2_collision_checker" />
+  <depend package="tf" />
+
+</package>
+
+
